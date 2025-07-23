@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victoria (AmarantaAR)
+# 👋 Hi, I'm Victoria (Amaranta)
 
 I'm a **DevOps & Infrastructure Engineer** passionate about building scalable, resilient, and automated cloud systems. I specialize in creating zero-downtime deployment pipelines, Infrastructure as Code environments, and monitoring systems that actually tell you what matters.
 
